@@ -22,7 +22,7 @@ We approached the problem in two stages:
    - R-squared: `0.70103`
    - Range-Based Accuracy: `93.59%`
 
-   👉 The model showed strong predictive performance, with steps and activity intensity being the most influential features for calorie estimation.
+   🔹 The model showed strong predictive performance, with steps and activity intensity being the most influential features for calorie estimation.
 
 ---
 
@@ -40,7 +40,7 @@ We approached the problem in two stages:
    - **Efficient Linear SVM (without PCA)**
    - Accuracy: `64.5%`
 
-   👉 While not perfect, the classifier was able to distinguish exercise intensity levels using real-world signals.
+   🔹 While not perfect, the classifier was able to distinguish exercise intensity levels using real-world signals.
 
 ---
 
@@ -49,7 +49,7 @@ We approached the problem in two stages:
    - Detected peaks using MATLAB’s `findpeaks`, setting thresholds for peak height and minimum distance.
    - Counted steps as the number of detected peaks.
 
-   👉 This approach provided a straightforward yet effective step-counting method from raw acceleration data.
+   🔹 This approach provided a straightforward yet effective step-counting method from raw acceleration data.
 
 ---
 
