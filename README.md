@@ -3,7 +3,7 @@
 This project was developed for the [Aristotle Hackathon with AI](https://aristotle-hackathon.devpost.com/).  
 Our goal was to **analyze physical activity data and build machine learning models in MATLAB** to predict calories burned, classify activity intensity, and count steps from raw sensor data collected via **MATLAB Mobile** app.
 
----
+--- 
 
 ## 📌 Project Overview
 
